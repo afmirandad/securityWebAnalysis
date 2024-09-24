@@ -9,6 +9,7 @@ class classifiedData:
         self.directory = 'logsDownloaded'
         self.url = "http://www.secrepo.com/self.logs/access.log.2017-01-01.gz" #Url de archivo de log comprimido
         self.local_file_gz = os.path.join(self.directory,'access.log.2017-01-01.gz')
+        self.file_content = ''
         self.validateFolder()
 
     def downloadFile(self):
@@ -20,8 +21,7 @@ class classifiedData:
 
     def decompressFile(self):
         with gzip.open(self.local_file_gz, 'rt') as file:
-            file_content = file.read()
-            print(file_content)
+            self.file_content = file.read()
 
     def validateFolder(self):
         if not os.path.exists(self.directory):
