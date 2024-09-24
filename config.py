@@ -1,5 +1,0 @@
-config = {
-    "uri":"",
-    "database":"",
-    "collection":""
-}
