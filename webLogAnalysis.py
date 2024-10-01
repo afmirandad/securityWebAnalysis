@@ -1,37 +1,52 @@
 #Usamos gzip para descomprimir el archivo .gz y requests para realizar la descarga del archivo
-import gzip, requests, os
+import gzip, requests, os, re, shutil
+from bs4 import BeautifulSoup
 
 #Url de archivo de log comprimido
 
 class classifiedData:
 
-    def __init__(self):
+    def __init__(self,listUrls):
         self.directory = 'logsDownloaded'
-        self.url = "http://www.secrepo.com/self.logs/access.log.2017-01-01.gz" #Url de archivo de log comprimido
-        self.local_file_gz = os.path.join(self.directory,'access.log.2017-01-01.gz')
         self.file_content = ''
         self.ipAddress = []
+        self.listUrls = listUrls
         self.validateFolder()
 
     def downloadFile(self):
-        responseData = requests.get(self.url, stream=True, verify=False)
-        with open(self.local_file_gz,'wb') as file:
-            for chunk in responseData.iter_content(chunk_size=1024):
-                if chunk:
-                    file.write(chunk)
+        for url in self.listUrls:
+            responseData = requests.get(url, stream=True, verify=False)
+            self.local_file_gz = os.path.join(self.directory, url.split("/")[-1])
+            with open(self.local_file_gz,'wb') as file:
+                for chunk in responseData.iter_content(chunk_size=1024):
+                    if chunk:
+                        file.write(chunk)
+            self.output_file = url.split("/")[-1].replace('.gz', '.txt')
+            with gzip.open(self.local_file_gz, 'rb') as gz_file:
+                with open(self.output_file, 'wb') as out_file:
+                    shutil.copyfileobj(gz_file, out_file)
+            os.remove(self.local_file_gz)
+            print(f"Archivo descomprimido guardado como {self.output_file}.")
 
-    def decompressFile(self):
-        with gzip.open(self.local_file_gz, 'rt') as file:
-            self.file_content = file.read()
-
-    def extractIPAddresFromFile(self):
-        print(self.file_content)
 
     def validateFolder(self):
         if not os.path.exists(self.directory):
             os.makedirs(self.directory)
 
-prueba = classifiedData()
+class PrepareSources:
+
+    @staticmethod
+    def returnSources():
+        listUrls = []
+        url = "http://www.secrepo.com/self.logs/"
+        body = requests.get(url)
+        file_pattern = re.compile(r'access\.log\..*\.gz')
+        soup = BeautifulSoup(body.text, 'html.parser')
+        files_to_download = [a['href'] for a in soup.find_all('a', href=True) if file_pattern.match(a['href'])]
+        for i in files_to_download:
+            listUrls.append(url+i)
+        return listUrls
+
+
+prueba = classifiedData(PrepareSources().returnSources())
 prueba.downloadFile()
-prueba.decompressFile()
-prueba.showDataInFile()
