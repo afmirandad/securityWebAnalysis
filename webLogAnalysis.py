@@ -6,13 +6,16 @@ from bs4 import BeautifulSoup
 
 class classifiedData:
 
+    # Función constructor: se construye la clase a partir de los datos entregados por el usuario. Para este caso la lista de URLs a descargar.
     def __init__(self,listUrls):
         self.directory = 'logsDownloaded'
         self.file_content = ''
         self.ipAddress = []
         self.listUrls = listUrls
+        # Valida que la carpeta donde se va a descargar los archivos exista
         self.validateFolder()
 
+    # Función toma la lista de URLs y una por una va a consumirla, descargar el archivo, descomprimirlo y almacenarlo como un archivo.txt.
     def downloadFile(self):
         for url in self.listUrls:
             responseData = requests.get(url, stream=True, verify=False)
@@ -28,7 +31,7 @@ class classifiedData:
             os.remove(self.local_file_gz)
             print(f"Archivo descomprimido guardado como {self.output_file}.")
 
-
+    # Función para validar si la carpeta existe o no, y en caso dado la va a crear.
     def validateFolder(self):
         if not os.path.exists(self.directory):
             os.makedirs(self.directory)
