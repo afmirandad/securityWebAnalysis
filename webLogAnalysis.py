@@ -50,6 +50,5 @@ class PrepareSources:
             listUrls.append(url+i)
         return listUrls
 
-
 prueba = classifiedData(PrepareSources().returnSources())
 prueba.downloadFile()
