@@ -1,3 +1,5 @@
+import json
+
 import pandas as pd
 import os, re
 from datetime import datetime
@@ -9,6 +11,7 @@ class CleanUp:
         self.log_pattern = re.compile(
     r'(?P<ip>\d+\.\d+\.\d+\.\d+)\s-\s-\s\[(?P<date>.+?)\]\s"(?P<method>\w+)\s(?P<resource>.+?)\sHTTP\/[\d\.]+"\s(?P<error_code>\d+)\s'
 )
+        self.storedFile = os.path.join(os.getcwd(),'dataCollected.json')
 
     def cleanUpLog(self):
         pathRoute = os.getcwd()
@@ -18,7 +21,8 @@ class CleanUp:
                 with open(fullPath, 'r', encoding='utf-8') as rawFile:
                     for line in rawFile:
                         self.listJson.append(self.regexClean(line))
-                    print(self.listJson)
+                with open(self.storedFile,'w',encoding='utf-8') as storeJson:
+                    json.dump(self.listJson,storeJson,ensure_ascii=False,indent=4)
 
     def regexClean(self,file):
         logs_json = []
