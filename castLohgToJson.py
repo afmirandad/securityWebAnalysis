@@ -43,5 +43,6 @@ for match in re.finditer(log_pattern, log_data):
     logs_json.append(json_data)
 
 # Mostrar los resultados
-for entry in logs_json:
-    print(entry)
+#for entry in logs_json:
+#    print(entry)
+print(type(log_data))
