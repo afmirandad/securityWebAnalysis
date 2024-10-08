@@ -39,10 +39,8 @@ class CleanUp:
             resource = match.group('resource')
             error_code = match.group('error_code')
 
-            # Convertir la fecha al formato deseado
             date_time = datetime.strptime(date_str.split()[0], "%d/%b/%Y:%H:%M:%S")
 
-            # Crear el diccionario para cada entrada
             json_data = {
                 'date': date_time.strftime('%Y-%m-%d'),
                 'ip': ip,
@@ -51,7 +49,6 @@ class CleanUp:
                 'errorCode': error_code
             }
 
-            # Añadir la entrada JSON a la lista
             logs_json.append(json_data)
         return logs_json
 
