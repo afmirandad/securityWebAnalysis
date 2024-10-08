@@ -59,7 +59,7 @@ class CleanUp:
             data = json.load(file)
 
         for item in data:
-            url = f"https://ipinfo.io/{item[0]['ip']}?token="
+            url = f"https://ipinfo.io/{item[0]['ip']}?token=f18cd1e491bd68"
             response = requests.get(url)
             print(f"La región de la ip {item[0]['ip']} es {response.json()['region']}")
             item[0]['region'] = response.json()['region']
@@ -67,7 +67,25 @@ class CleanUp:
         with open('dataCollectedSummary.json','w') as file:
             json.dump(data,file,indent=4)
 
+    def getStatusAttack(self):
+        with open('big.txt','r') as file:
+            possible_attacks = [line.strip() for line in file]
 
+        with open('dataCollectedSummary.json', 'r') as file:
+            data = json.load(file)
+
+        for item in data:
+            resource = item[0]['resource']
+            error_code = item[0]['errorCode']
+
+            if resource in possible_attacks:
+                if error_code == "200" or error_code == "500":
+                    item[0]['statusAttack'] == True
+                else:
+                    item[0]['statusAttack'] == False
+
+        with open('dataCollectedSummary.json','w') as file:
+            json.dump(data,file,indent=4)
 
 class PrepareData:
 
@@ -78,4 +96,4 @@ class PrepareData:
         df = pd.DataFrame(self.listData, columns=[])
 
 prueba = CleanUp()
-prueba.getRegionByIP()
+prueba.getStatusAttack()
