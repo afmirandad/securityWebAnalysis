@@ -78,16 +78,11 @@ class CleanUp:
             resource = item[0]['resource']
             error_code = item[0]['errorCode']
 
-            print(possible_attacks)
-
             if resource in possible_attacks:
-                print("Entry")
                 if error_code == "200" or error_code == "500":
-                    item[0]['statusAttack'] == True
-                    print("attack")
+                    item[0]['statusAttack'] = True
                 else:
-                    item[0]['statusAttack'] == False
-                    print("No attack")
+                    item[0]['statusAttack'] = False
 
         with open('dataCollectedSummary.json','w') as file:
             json.dump(data,file,indent=4)
