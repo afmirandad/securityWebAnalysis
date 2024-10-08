@@ -68,7 +68,7 @@ class CleanUp:
             json.dump(data,file,indent=4)
 
     def getStatusAttack(self):
-        with open('big.txt','r') as file:
+        with open('big.txt','r',encoding='iso-8859-1') as file:
             possible_attacks = [line.strip() for line in file]
 
         with open('dataCollectedSummary.json', 'r') as file:
@@ -78,11 +78,16 @@ class CleanUp:
             resource = item[0]['resource']
             error_code = item[0]['errorCode']
 
+            print(possible_attacks)
+
             if resource in possible_attacks:
+                print("Entry")
                 if error_code == "200" or error_code == "500":
                     item[0]['statusAttack'] == True
+                    print("attack")
                 else:
                     item[0]['statusAttack'] == False
+                    print("No attack")
 
         with open('dataCollectedSummary.json','w') as file:
             json.dump(data,file,indent=4)
