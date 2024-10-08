@@ -4,6 +4,8 @@ import threading
 import pandas as pd
 import os, re
 from datetime import datetime
+
+import requests
 from tqdm import tqdm
 
 class CleanUp:
@@ -52,6 +54,20 @@ class CleanUp:
             logs_json.append(json_data)
         return logs_json
 
+    def getRegionByIP(self):
+        with open('dataCollectedSummary.json','r') as file:
+            data = json.load(file)
+
+        for item in data:
+            url = f"https://ipinfo.io/{item[0]['ip']}?token="
+            response = requests.get(url)
+            print(f"La región de la ip {item[0]['ip']} es {response.json()['region']}")
+            item[0]['region'] = response.json()['region']
+
+        with open('dataCollectedSummary.json','w') as file:
+            json.dump(data,file,indent=4)
+
+
 
 class PrepareData:
 
@@ -62,4 +78,4 @@ class PrepareData:
         df = pd.DataFrame(self.listData, columns=[])
 
 prueba = CleanUp()
-prueba.launchThread()
+prueba.getRegionByIP()
