@@ -5,7 +5,9 @@
             "ip": "216.244.66.245",
             "method": "GET",
             "resource": "/robots.txt",
-            "errorCode": "200"
+            "errorCode": "200",
+            "region": "Washington",
+            "statusAttack": true
         }
     ],
     [
@@ -14,7 +16,8 @@
             "ip": "216.244.66.245",
             "method": "GET",
             "resource": "/self.logs/access.log.2015-04-03.gz",
-            "errorCode": "404"
+            "errorCode": "404",
+            "region": "Washington"
         }
     ],
     [
@@ -23,7 +26,8 @@
             "ip": "216.244.66.245",
             "method": "GET",
             "resource": "/self.logs/access.log.2015-04-12.gz",
-            "errorCode": "404"
+            "errorCode": "404",
+            "region": "Washington"
         }
     ],
     [
@@ -32,7 +36,8 @@
             "ip": "216.244.66.245",
             "method": "GET",
             "resource": "/self.logs/access.log.2015-06-27.gz",
-            "errorCode": "404"
+            "errorCode": "404",
+            "region": "Washington"
         }
     ],
     [
@@ -41,7 +46,8 @@
             "ip": "216.244.66.245",
             "method": "GET",
             "resource": "/self.logs/access.log.2015-11-16.gz",
-            "errorCode": "404"
+            "errorCode": "404",
+            "region": "Washington"
         }
     ],
     [
@@ -50,7 +56,8 @@
             "ip": "216.244.66.245",
             "method": "GET",
             "resource": "/self.logs/access.log.2016-09-29.gz",
-            "errorCode": "404"
+            "errorCode": "404",
+            "region": "Washington"
         }
     ],
     [
@@ -59,7 +66,8 @@
             "ip": "216.244.66.245",
             "method": "GET",
             "resource": "/self.logs/error.log.2015-05-26.gz",
-            "errorCode": "404"
+            "errorCode": "404",
+            "region": "Washington"
         }
     ],
     [
@@ -68,7 +76,8 @@
             "ip": "216.244.66.245",
             "method": "GET",
             "resource": "/self.logs/error.log.2016-02-03.gz",
-            "errorCode": "404"
+            "errorCode": "404",
+            "region": "Washington"
         }
     ],
     [
@@ -77,7 +86,8 @@
             "ip": "216.244.66.245",
             "method": "GET",
             "resource": "/self.logs/error.log.2018-05-25.gz",
-            "errorCode": "200"
+            "errorCode": "200",
+            "region": "Washington"
         }
     ],
     [
@@ -86,7 +96,8 @@
             "ip": "54.36.149.84",
             "method": "GET",
             "resource": "/self.logs/2016/access.log.2016-07-09.gz",
-            "errorCode": "200"
+            "errorCode": "200",
+            "region": "Hauts-de-France"
         }
     ],
     [
@@ -95,7 +106,8 @@
             "ip": "203.192.209.52",
             "method": "GET",
             "resource": "/",
-            "errorCode": "301"
+            "errorCode": "301",
+            "region": "West Bengal"
         }
     ],
     [
@@ -104,7 +116,8 @@
             "ip": "203.192.209.52",
             "method": "GET",
             "resource": "/",
-            "errorCode": "200"
+            "errorCode": "200",
+            "region": "West Bengal"
         }
     ],
     [
@@ -113,7 +126,8 @@
             "ip": "203.192.209.52",
             "method": "GET",
             "resource": "/GitHub-Mark.png",
-            "errorCode": "200"
+            "errorCode": "200",
+            "region": "West Bengal"
         }
     ],
     [
@@ -122,7 +136,8 @@
             "ip": "203.192.209.52",
             "method": "GET",
             "resource": "/twitter-icon.png",
-            "errorCode": "200"
+            "errorCode": "200",
+            "region": "West Bengal"
         }
     ],
     [
@@ -131,7 +146,8 @@
             "ip": "203.192.209.52",
             "method": "GET",
             "resource": "/bootstrap/img/favicon.ico",
-            "errorCode": "200"
+            "errorCode": "200",
+            "region": "West Bengal"
         }
     ],
     [
@@ -140,7 +156,8 @@
             "ip": "203.192.209.52",
             "method": "GET",
             "resource": "/",
-            "errorCode": "200"
+            "errorCode": "200",
+            "region": "West Bengal"
         }
     ],
     [
@@ -149,7 +166,8 @@
             "ip": "203.192.209.52",
             "method": "GET",
             "resource": "/GitHub-Mark.png",
-            "errorCode": "200"
+            "errorCode": "200",
+            "region": "West Bengal"
         }
     ],
     [
@@ -158,7 +176,8 @@
             "ip": "203.192.209.52",
             "method": "GET",
             "resource": "/twitter-icon.png",
-            "errorCode": "200"
+            "errorCode": "200",
+            "region": "West Bengal"
         }
     ],
     [
@@ -167,7 +186,8 @@
             "ip": "113.171.224.176",
             "method": "GET",
             "resource": "/honeypot/Honeypot%20-%20Howto.pdf",
-            "errorCode": "200"
+            "errorCode": "200",
+            "region": "Hanoi"
         }
     ],
     [
@@ -176,7 +196,8 @@
             "ip": "82.97.218.139",
             "method": "GET",
             "resource": "/bootstrap/img/favicon.ico",
-            "errorCode": "200"
+            "errorCode": "200",
+            "region": "Latakia"
         }
     ],
     [
@@ -185,7 +206,8 @@
             "ip": "54.36.148.233",
             "method": "GET",
             "resource": "/self.logs/error.log.2018-06-05.gz",
-            "errorCode": "200"
+            "errorCode": "200",
+            "region": "Hauts-de-France"
         }
     ],
     [
@@ -194,7 +216,9 @@
             "ip": "216.244.66.245",
             "method": "GET",
             "resource": "/robots.txt",
-            "errorCode": "200"
+            "errorCode": "200",
+            "region": "Washington",
+            "statusAttack": true
         }
     ],
     [
@@ -203,7 +227,8 @@
             "ip": "216.244.66.245",
             "method": "GET",
             "resource": "/self.logs/access.log.2015-04-19.gz",
-            "errorCode": "404"
+            "errorCode": "404",
+            "region": "Washington"
         }
     ],
     [
@@ -212,7 +237,8 @@
             "ip": "216.244.66.245",
             "method": "GET",
             "resource": "/self.logs/access.log.2015-05-16.gz",
-            "errorCode": "404"
+            "errorCode": "404",
+            "region": "Washington"
         }
     ],
     [
@@ -221,7 +247,8 @@
             "ip": "216.244.66.245",
             "method": "GET",
             "resource": "/self.logs/access.log.2015-09-06.gz",
-            "errorCode": "404"
+            "errorCode": "404",
+            "region": "Washington"
         }
     ],
     [
@@ -230,7 +257,8 @@
             "ip": "216.244.66.245",
             "method": "GET",
             "resource": "/self.logs/access.log.2015-10-13.gz",
-            "errorCode": "404"
+            "errorCode": "404",
+            "region": "Washington"
         }
     ],
     [
@@ -239,7 +267,8 @@
             "ip": "216.244.66.245",
             "method": "GET",
             "resource": "/self.logs/access.log.2016-04-21.gz",
-            "errorCode": "404"
+            "errorCode": "404",
+            "region": "Washington"
         }
     ],
     [
@@ -248,7 +277,8 @@
             "ip": "216.244.66.245",
             "method": "GET",
             "resource": "/self.logs/access.log.2016-06-03.gz",
-            "errorCode": "404"
+            "errorCode": "404",
+            "region": "Washington"
         }
     ],
     [
@@ -257,7 +287,8 @@
             "ip": "216.244.66.245",
             "method": "GET",
             "resource": "/self.logs/access.log.2016-06-17.gz",
-            "errorCode": "404"
+            "errorCode": "404",
+            "region": "Washington"
         }
     ],
     [
@@ -266,7 +297,8 @@
             "ip": "216.244.66.245",
             "method": "GET",
             "resource": "/self.logs/error.log.2015-12-02.gz",
-            "errorCode": "404"
+            "errorCode": "404",
+            "region": "Washington"
         }
     ],
     [
@@ -275,7 +307,8 @@
             "ip": "216.244.66.245",
             "method": "GET",
             "resource": "/self.logs/error.log.2016-05-30.gz",
-            "errorCode": "404"
+            "errorCode": "404",
+            "region": "Washington"
         }
     ],
     [
@@ -284,7 +317,8 @@
             "ip": "216.244.66.245",
             "method": "GET",
             "resource": "/self.logs/error.log.2016-08-12.gz",
-            "errorCode": "404"
+            "errorCode": "404",
+            "region": "Washington"
         }
     ],
     [
@@ -293,7 +327,8 @@
             "ip": "216.244.66.245",
             "method": "GET",
             "resource": "/self.logs/error.log.2016-10-03.gz",
-            "errorCode": "404"
+            "errorCode": "404",
+            "region": "Washington"
         }
     ],
     [
@@ -302,7 +337,8 @@
             "ip": "216.244.66.245",
             "method": "GET",
             "resource": "/self.logs/error.log.2016-11-08.gz",
-            "errorCode": "404"
+            "errorCode": "404",
+            "region": "Washington"
         }
     ],
     [
@@ -311,7 +347,8 @@
             "ip": "216.244.66.245",
             "method": "GET",
             "resource": "/self.logs/access.log.2018-06-04.gz",
-            "errorCode": "200"
+            "errorCode": "200",
+            "region": "Washington"
         }
     ],
     [
@@ -320,7 +357,8 @@
             "ip": "128.69.222.231",
             "method": "GET",
             "resource": "/",
-            "errorCode": "200"
+            "errorCode": "200",
+            "region": "Moscow Oblast"
         }
     ],
     [
@@ -329,7 +367,8 @@
             "ip": "128.69.222.231",
             "method": "GET",
             "resource": "/twitter-icon.png",
-            "errorCode": "200"
+            "errorCode": "200",
+            "region": "Moscow Oblast"
         }
     ],
     [
@@ -338,7 +377,8 @@
             "ip": "128.69.222.231",
             "method": "GET",
             "resource": "/GitHub-Mark.png",
-            "errorCode": "200"
+            "errorCode": "200",
+            "region": "Moscow Oblast"
         }
     ],
     [
@@ -347,7 +387,8 @@
             "ip": "66.249.66.84",
             "method": "GET",
             "resource": "/bootstrap/img/favicon.ico",
-            "errorCode": "304"
+            "errorCode": "304",
+            "region": "North Carolina"
         }
     ],
     [
@@ -356,7 +397,8 @@
             "ip": "54.36.148.150",
             "method": "GET",
             "resource": "/self.logs/error.log.2017-02-02.gz",
-            "errorCode": "200"
+            "errorCode": "200",
+            "region": "Hauts-de-France"
         }
     ],
     [
@@ -365,7 +407,8 @@
             "ip": "157.55.39.10",
             "method": "GET",
             "resource": "/self.logs/error.log.2017-02-22.gz",
-            "errorCode": "301"
+            "errorCode": "301",
+            "region": "Washington"
         }
     ],
     [
@@ -374,7 +417,9 @@
             "ip": "216.244.66.245",
             "method": "GET",
             "resource": "/robots.txt",
-            "errorCode": "200"
+            "errorCode": "200",
+            "region": "Washington",
+            "statusAttack": true
         }
     ],
     [
@@ -383,7 +428,8 @@
             "ip": "207.246.121.216",
             "method": "HEAD",
             "resource": "/",
-            "errorCode": "200"
+            "errorCode": "200",
+            "region": "New Jersey"
         }
     ],
     [
@@ -392,7 +438,8 @@
             "ip": "216.244.66.245",
             "method": "GET",
             "resource": "/self.logs/access.log.2015-03-02.gz",
-            "errorCode": "404"
+            "errorCode": "404",
+            "region": "Washington"
         }
     ],
     [
@@ -401,7 +448,8 @@
             "ip": "216.244.66.245",
             "method": "GET",
             "resource": "/self.logs/access.log.2015-08-21.gz",
-            "errorCode": "404"
+            "errorCode": "404",
+            "region": "Washington"
         }
     ],
     [
@@ -410,7 +458,8 @@
             "ip": "216.244.66.245",
             "method": "GET",
             "resource": "/self.logs/access.log.2015-08-24.gz",
-            "errorCode": "404"
+            "errorCode": "404",
+            "region": "Washington"
         }
     ],
     [
@@ -419,7 +468,8 @@
             "ip": "216.244.66.245",
             "method": "GET",
             "resource": "/self.logs/error.log.2015-01-17.gz",
-            "errorCode": "404"
+            "errorCode": "404",
+            "region": "Washington"
         }
     ],
     [
@@ -428,7 +478,8 @@
             "ip": "216.244.66.245",
             "method": "GET",
             "resource": "/self.logs/error.log.2015-11-30.gz",
-            "errorCode": "404"
+            "errorCode": "404",
+            "region": "Washington"
         }
     ],
     [
@@ -437,7 +488,8 @@
             "ip": "216.244.66.245",
             "method": "GET",
             "resource": "/self.logs/error.log.2016-01-03.gz",
-            "errorCode": "404"
+            "errorCode": "404",
+            "region": "Washington"
         }
     ],
     [
@@ -446,7 +498,8 @@
             "ip": "216.244.66.245",
             "method": "GET",
             "resource": "/self.logs/error.log.2016-07-23.gz",
-            "errorCode": "404"
+            "errorCode": "404",
+            "region": "Washington"
         }
     ],
     [
@@ -455,7 +508,8 @@
             "ip": "216.244.66.245",
             "method": "GET",
             "resource": "/self.logs/error.log.2016-07-24.gz",
-            "errorCode": "404"
+            "errorCode": "404",
+            "region": "Washington"
         }
     ],
     [
@@ -464,7 +518,8 @@
             "ip": "216.244.66.245",
             "method": "GET",
             "resource": "/self.logs/error.log.2016-12-08.gz",
-            "errorCode": "404"
+            "errorCode": "404",
+            "region": "Washington"
         }
     ],
     [
@@ -473,7 +528,8 @@
             "ip": "42.189.14.5",
             "method": "GET",
             "resource": "/wp-login.php",
-            "errorCode": "418"
+            "errorCode": "418",
+            "region": "Selangor"
         }
     ],
     [
@@ -482,7 +538,8 @@
             "ip": "42.189.14.5",
             "method": "GET",
             "resource": "/",
-            "errorCode": "418"
+            "errorCode": "418",
+            "region": "Selangor"
         }
     ],
     [
@@ -491,7 +548,8 @@
             "ip": "157.55.39.132",
             "method": "GET",
             "resource": "/self.logs/access.log.2017-05-05.gz",
-            "errorCode": "200"
+            "errorCode": "200",
+            "region": "Washington"
         }
     ],
     [
@@ -500,7 +558,8 @@
             "ip": "89.164.9.222",
             "method": "GET",
             "resource": "/wp-login.php",
-            "errorCode": "418"
+            "errorCode": "418",
+            "region": "Zagreb"
         }
     ],
     [
@@ -509,7 +568,8 @@
             "ip": "89.164.9.222",
             "method": "GET",
             "resource": "/",
-            "errorCode": "418"
+            "errorCode": "418",
+            "region": "Zagreb"
         }
     ],
     [
@@ -518,7 +578,8 @@
             "ip": "52.165.129.203",
             "method": "GET",
             "resource": "/",
-            "errorCode": "301"
+            "errorCode": "301",
+            "region": "Iowa"
         }
     ],
     [
@@ -527,7 +588,8 @@
             "ip": "78.56.71.148",
             "method": "GET",
             "resource": "/wp-login.php",
-            "errorCode": "418"
+            "errorCode": "418",
+            "region": "Vilnius"
         }
     ],
     [
@@ -536,7 +598,8 @@
             "ip": "223.38.61.34",
             "method": "GET",
             "resource": "/",
-            "errorCode": "200"
+            "errorCode": "200",
+            "region": "Seoul"
         }
     ],
     [
@@ -545,7 +608,8 @@
             "ip": "223.38.61.34",
             "method": "GET",
             "resource": "/twitter-icon.png",
-            "errorCode": "200"
+            "errorCode": "200",
+            "region": "Seoul"
         }
     ],
     [
@@ -554,7 +618,8 @@
             "ip": "223.38.61.34",
             "method": "GET",
             "resource": "/GitHub-Mark.png",
-            "errorCode": "200"
+            "errorCode": "200",
+            "region": "Seoul"
         }
     ],
     [
@@ -563,7 +628,8 @@
             "ip": "192.241.106.40",
             "method": "GET",
             "resource": "/honeypot/Honeypot%20-%20Howto.pdf",
-            "errorCode": "200"
+            "errorCode": "200",
+            "region": "New York"
         }
     ],
     [
@@ -572,7 +638,8 @@
             "ip": "91.122.139.10",
             "method": "GET",
             "resource": "/wp-login.php",
-            "errorCode": "418"
+            "errorCode": "418",
+            "region": "St.-Petersburg"
         }
     ],
     [
@@ -581,7 +648,9 @@
             "ip": "157.55.39.10",
             "method": "GET",
             "resource": "/robots.txt",
-            "errorCode": "200"
+            "errorCode": "200",
+            "region": "Washington",
+            "statusAttack": true
         }
     ],
     [
@@ -590,7 +659,9 @@
             "ip": "216.244.66.245",
             "method": "GET",
             "resource": "/robots.txt",
-            "errorCode": "200"
+            "errorCode": "200",
+            "region": "Washington",
+            "statusAttack": true
         }
     ],
     [
@@ -599,7 +670,8 @@
             "ip": "159.192.218.201",
             "method": "GET",
             "resource": "/wp-login.php",
-            "errorCode": "418"
+            "errorCode": "418",
+            "region": "Bangkok"
         }
     ],
     [
@@ -608,7 +680,8 @@
             "ip": "159.192.218.201",
             "method": "GET",
             "resource": "/",
-            "errorCode": "418"
+            "errorCode": "418",
+            "region": "Bangkok"
         }
     ],
     [
@@ -617,7 +690,8 @@
             "ip": "54.36.148.17",
             "method": "GET",
             "resource": "/self.logs/2016/error.log.2016-01-02.gz",
-            "errorCode": "200"
+            "errorCode": "200",
+            "region": "Hauts-de-France"
         }
     ],
     [
@@ -626,7 +700,8 @@
             "ip": "216.244.66.245",
             "method": "GET",
             "resource": "/self.logs/error.log.2017-11-24.gz",
-            "errorCode": "200"
+            "errorCode": "200",
+            "region": "Washington"
         }
     ],
     [
@@ -635,7 +710,8 @@
             "ip": "216.244.66.245",
             "method": "GET",
             "resource": "/self.logs/access.log.2015-03-01.gz",
-            "errorCode": "404"
+            "errorCode": "404",
+            "region": "Washington"
         }
     ],
     [
@@ -644,7 +720,8 @@
             "ip": "216.244.66.245",
             "method": "GET",
             "resource": "/self.logs/access.log.2015-04-02.gz",
-            "errorCode": "404"
+            "errorCode": "404",
+            "region": "Washington"
         }
     ],
     [
@@ -653,7 +730,8 @@
             "ip": "216.244.66.245",
             "method": "GET",
             "resource": "/self.logs/access.log.2015-11-12.gz",
-            "errorCode": "404"
+            "errorCode": "404",
+            "region": "Washington"
         }
     ],
     [
@@ -662,7 +740,8 @@
             "ip": "216.244.66.245",
             "method": "GET",
             "resource": "/self.logs/access.log.2015-11-28.gz",
-            "errorCode": "404"
+            "errorCode": "404",
+            "region": "Washington"
         }
     ],
     [
@@ -671,7 +750,8 @@
             "ip": "216.244.66.245",
             "method": "GET",
             "resource": "/self.logs/access.log.2015-12-31.gz",
-            "errorCode": "404"
+            "errorCode": "404",
+            "region": "Washington"
         }
     ],
     [
@@ -680,7 +760,8 @@
             "ip": "216.244.66.245",
             "method": "GET",
             "resource": "/self.logs/access.log.2016-01-18.gz",
-            "errorCode": "404"
+            "errorCode": "404",
+            "region": "Washington"
         }
     ],
     [
@@ -689,7 +770,8 @@
             "ip": "216.244.66.245",
             "method": "GET",
             "resource": "/self.logs/access.log.2016-08-02.gz",
-            "errorCode": "404"
+            "errorCode": "404",
+            "region": "Washington"
         }
     ],
     [
@@ -698,7 +780,8 @@
             "ip": "216.244.66.245",
             "method": "GET",
             "resource": "/self.logs/access.log.2016-11-08.gz",
-            "errorCode": "404"
+            "errorCode": "404",
+            "region": "Washington"
         }
     ],
     [
@@ -707,7 +790,8 @@
             "ip": "216.244.66.245",
             "method": "GET",
             "resource": "/self.logs/error.log.2015-12-19.gz",
-            "errorCode": "404"
+            "errorCode": "404",
+            "region": "Washington"
         }
     ],
     [
@@ -716,7 +800,8 @@
             "ip": "216.244.66.245",
             "method": "GET",
             "resource": "/self.logs/error.log.2016-09-25.gz",
-            "errorCode": "404"
+            "errorCode": "404",
+            "region": "Washington"
         }
     ],
     [
@@ -725,7 +810,9 @@
             "ip": "199.58.86.211",
             "method": "GET",
             "resource": "/robots.txt",
-            "errorCode": "200"
+            "errorCode": "200",
+            "region": "District of Columbia",
+            "statusAttack": true
         }
     ],
     [
@@ -734,7 +821,8 @@
             "ip": "199.58.86.211",
             "method": "GET",
             "resource": "/",
-            "errorCode": "200"
+            "errorCode": "200",
+            "region": "District of Columbia"
         }
     ],
     [
@@ -743,7 +831,8 @@
             "ip": "113.171.224.176",
             "method": "GET",
             "resource": "/honeypot/Honeypot%20-%20Howto.pdf",
-            "errorCode": "200"
+            "errorCode": "200",
+            "region": "Hanoi"
         }
     ],
     [
@@ -752,7 +841,8 @@
             "ip": "2.219.117.165",
             "method": "GET",
             "resource": "/",
-            "errorCode": "301"
+            "errorCode": "301",
+            "region": "England"
         }
     ],
     [
@@ -761,7 +851,8 @@
             "ip": "2.219.117.165",
             "method": "GET",
             "resource": "/",
-            "errorCode": "200"
+            "errorCode": "200",
+            "region": "England"
         }
     ],
     [
@@ -770,7 +861,8 @@
             "ip": "2.219.117.165",
             "method": "GET",
             "resource": "/twitter-icon.png",
-            "errorCode": "200"
+            "errorCode": "200",
+            "region": "England"
         }
     ],
     [
@@ -779,7 +871,8 @@
             "ip": "2.219.117.165",
             "method": "GET",
             "resource": "/GitHub-Mark.png",
-            "errorCode": "200"
+            "errorCode": "200",
+            "region": "England"
         }
     ],
     [
@@ -788,7 +881,8 @@
             "ip": "2.219.117.165",
             "method": "GET",
             "resource": "/bootstrap/img/favicon.ico",
-            "errorCode": "200"
+            "errorCode": "200",
+            "region": "England"
         }
     ],
     [
@@ -797,7 +891,8 @@
             "ip": "93.41.1.76",
             "method": "GET",
             "resource": "/wp-login.php",
-            "errorCode": "418"
+            "errorCode": "418",
+            "region": "Friuli Venezia Giulia"
         }
     ],
     [
@@ -806,7 +901,8 @@
             "ip": "187.57.158.102",
             "method": "GET",
             "resource": "/wp-login.php",
-            "errorCode": "418"
+            "errorCode": "418",
+            "region": "S\u00e3o Paulo"
         }
     ],
     [
@@ -815,7 +911,8 @@
             "ip": "187.57.158.102",
             "method": "GET",
             "resource": "/",
-            "errorCode": "418"
+            "errorCode": "418",
+            "region": "S\u00e3o Paulo"
         }
     ],
     [
@@ -824,7 +921,8 @@
             "ip": "187.59.46.115",
             "method": "GET",
             "resource": "/wp-login.php",
-            "errorCode": "418"
+            "errorCode": "418",
+            "region": "S\u00e3o Paulo"
         }
     ],
     [
@@ -833,7 +931,8 @@
             "ip": "187.59.46.115",
             "method": "GET",
             "resource": "/",
-            "errorCode": "418"
+            "errorCode": "418",
+            "region": "S\u00e3o Paulo"
         }
     ],
     [
@@ -842,7 +941,9 @@
             "ip": "216.244.66.245",
             "method": "GET",
             "resource": "/robots.txt",
-            "errorCode": "200"
+            "errorCode": "200",
+            "region": "Washington",
+            "statusAttack": true
         }
     ],
     [
@@ -851,7 +952,8 @@
             "ip": "216.244.66.245",
             "method": "GET",
             "resource": "/self.logs/access.log.2015-04-18.gz",
-            "errorCode": "404"
+            "errorCode": "404",
+            "region": "Washington"
         }
     ],
     [
@@ -860,7 +962,8 @@
             "ip": "216.244.66.245",
             "method": "GET",
             "resource": "/self.logs/access.log.2015-07-08.gz",
-            "errorCode": "404"
+            "errorCode": "404",
+            "region": "Washington"
         }
     ],
     [
@@ -869,7 +972,8 @@
             "ip": "216.244.66.245",
             "method": "GET",
             "resource": "/self.logs/access.log.2015-11-04.gz",
-            "errorCode": "404"
+            "errorCode": "404",
+            "region": "Washington"
         }
     ],
     [
@@ -878,7 +982,8 @@
             "ip": "216.244.66.245",
             "method": "GET",
             "resource": "/self.logs/access.log.2016-04-23.gz",
-            "errorCode": "404"
+            "errorCode": "404",
+            "region": "Washington"
         }
     ],
     [
@@ -887,7 +992,8 @@
             "ip": "216.244.66.245",
             "method": "GET",
             "resource": "/self.logs/access.log.2016-07-23.gz",
-            "errorCode": "404"
+            "errorCode": "404",
+            "region": "Washington"
         }
     ],
     [
@@ -896,7 +1002,8 @@
             "ip": "216.244.66.245",
             "method": "GET",
             "resource": "/self.logs/access.log.2016-07-31.gz",
-            "errorCode": "404"
+            "errorCode": "404",
+            "region": "Washington"
         }
     ],
     [
@@ -905,7 +1012,8 @@
             "ip": "216.244.66.245",
             "method": "GET",
             "resource": "/self.logs/error.log.2015-02-17.gz",
-            "errorCode": "404"
+            "errorCode": "404",
+            "region": "Washington"
         }
     ],
     [
@@ -914,7 +1022,8 @@
             "ip": "216.244.66.245",
             "method": "GET",
             "resource": "/self.logs/error.log.2016-01-17.gz",
-            "errorCode": "404"
+            "errorCode": "404",
+            "region": "Washington"
         }
     ],
     [
@@ -923,7 +1032,8 @@
             "ip": "1.197.240.35",
             "method": "HEAD",
             "resource": "/apply/",
-            "errorCode": "404"
+            "errorCode": "404",
+            "region": "Shanghai"
         }
     ],
     [
@@ -932,7 +1042,8 @@
             "ip": "123.163.255.38",
             "method": "HEAD",
             "resource": "/js/close.gif",
-            "errorCode": "404"
+            "errorCode": "404",
+            "region": "Shanghai"
         }
     ],
     [
@@ -941,7 +1052,8 @@
             "ip": "123.163.255.38",
             "method": "HEAD",
             "resource": "/gbook/?1_1.html",
-            "errorCode": "404"
+            "errorCode": "404",
+            "region": "Shanghai"
         }
     ],
     [
@@ -950,7 +1062,8 @@
             "ip": "27.106.36.254",
             "method": "GET",
             "resource": "/wp-login.php",
-            "errorCode": "418"
+            "errorCode": "418",
+            "region": "Hong Kong"
         }
     ],
     [
@@ -959,7 +1072,8 @@
             "ip": "54.36.148.147",
             "method": "GET",
             "resource": "/self.logs/access.log.2018-06-03.gz",
-            "errorCode": "200"
+            "errorCode": "200",
+            "region": "Hauts-de-France"
         }
     ],
     [
@@ -968,7 +1082,8 @@
             "ip": "210.75.225.2",
             "method": "GET",
             "resource": "/",
-            "errorCode": "200"
+            "errorCode": "200",
+            "region": "Beijing"
         }
     ],
     [
@@ -977,7 +1092,8 @@
             "ip": "210.75.225.2",
             "method": "GET",
             "resource": "/twitter-icon.png",
-            "errorCode": "200"
+            "errorCode": "200",
+            "region": "Beijing"
         }
     ],
     [
@@ -986,7 +1102,8 @@
             "ip": "210.75.225.2",
             "method": "GET",
             "resource": "/GitHub-Mark.png",
-            "errorCode": "200"
+            "errorCode": "200",
+            "region": "Beijing"
         }
     ],
     [
@@ -995,7 +1112,8 @@
             "ip": "157.55.39.135",
             "method": "GET",
             "resource": "/self.logs/error.log.2018-01-30.gz",
-            "errorCode": "200"
+            "errorCode": "200",
+            "region": "Washington"
         }
     ],
     [
@@ -1004,7 +1122,9 @@
             "ip": "210.75.225.2",
             "method": "GET",
             "resource": "/data",
-            "errorCode": "404"
+            "errorCode": "404",
+            "region": "Beijing",
+            "statusAttack": false
         }
     ],
     [
@@ -1013,7 +1133,9 @@
             "ip": "210.75.225.2",
             "method": "GET",
             "resource": "/data",
-            "errorCode": "404"
+            "errorCode": "404",
+            "region": "Beijing",
+            "statusAttack": false
         }
     ],
     [
@@ -1022,7 +1144,9 @@
             "ip": "101.227.132.28",
             "method": "GET",
             "resource": "/data",
-            "errorCode": "404"
+            "errorCode": "404",
+            "region": "Shanghai",
+            "statusAttack": false
         }
     ],
     [
@@ -1031,7 +1155,8 @@
             "ip": "84.26.201.10",
             "method": "GET",
             "resource": "/wp-login.php",
-            "errorCode": "418"
+            "errorCode": "418",
+            "region": "North Brabant"
         }
     ],
     [
@@ -1040,7 +1165,8 @@
             "ip": "84.26.201.10",
             "method": "GET",
             "resource": "/",
-            "errorCode": "418"
+            "errorCode": "418",
+            "region": "North Brabant"
         }
     ],
     [
@@ -1049,7 +1175,9 @@
             "ip": "216.244.66.245",
             "method": "GET",
             "resource": "/robots.txt",
-            "errorCode": "200"
+            "errorCode": "200",
+            "region": "Washington",
+            "statusAttack": true
         }
     ],
     [
@@ -1058,7 +1186,8 @@
             "ip": "54.36.148.16",
             "method": "GET",
             "resource": "/self.logs/access.log.2018-06-02.gz",
-            "errorCode": "200"
+            "errorCode": "200",
+            "region": "Hauts-de-France"
         }
     ],
     [
@@ -1067,7 +1196,8 @@
             "ip": "216.244.66.245",
             "method": "GET",
             "resource": "/self.logs/access.log.2016-01-27.gz",
-            "errorCode": "404"
+            "errorCode": "404",
+            "region": "Washington"
         }
     ],
     [
@@ -1076,7 +1206,8 @@
             "ip": "216.244.66.245",
             "method": "GET",
             "resource": "/self.logs/access.log.2016-08-18.gz",
-            "errorCode": "404"
+            "errorCode": "404",
+            "region": "Washington"
         }
     ],
     [
@@ -1085,7 +1216,8 @@
             "ip": "216.244.66.245",
             "method": "GET",
             "resource": "/self.logs/access.log.2016-12-12.gz",
-            "errorCode": "404"
+            "errorCode": "404",
+            "region": "Washington"
         }
     ],
     [
@@ -1094,7 +1226,8 @@
             "ip": "216.244.66.245",
             "method": "GET",
             "resource": "/self.logs/error.log.2015-01-25.gz",
-            "errorCode": "404"
+            "errorCode": "404",
+            "region": "Washington"
         }
     ],
     [
@@ -1103,7 +1236,8 @@
             "ip": "216.244.66.245",
             "method": "GET",
             "resource": "/self.logs/error.log.2015-05-30.gz",
-            "errorCode": "404"
+            "errorCode": "404",
+            "region": "Washington"
         }
     ],
     [
@@ -1112,7 +1246,8 @@
             "ip": "216.244.66.245",
             "method": "GET",
             "resource": "/self.logs/error.log.2015-10-08.gz",
-            "errorCode": "404"
+            "errorCode": "404",
+            "region": "Washington"
         }
     ],
     [
@@ -1121,7 +1256,8 @@
             "ip": "216.244.66.245",
             "method": "GET",
             "resource": "/self.logs/error.log.2015-11-04.gz",
-            "errorCode": "404"
+            "errorCode": "404",
+            "region": "Washington"
         }
     ],
     [
@@ -1130,7 +1266,8 @@
             "ip": "216.244.66.245",
             "method": "GET",
             "resource": "/self.logs/error.log.2015-12-25.gz",
-            "errorCode": "404"
+            "errorCode": "404",
+            "region": "Washington"
         }
     ],
     [
@@ -1139,7 +1276,8 @@
             "ip": "216.244.66.245",
             "method": "GET",
             "resource": "/self.logs/error.log.2016-03-03.gz",
-            "errorCode": "404"
+            "errorCode": "404",
+            "region": "Washington"
         }
     ],
     [
@@ -1148,7 +1286,8 @@
             "ip": "216.244.66.245",
             "method": "GET",
             "resource": "/self.logs/error.log.2016-06-26.gz",
-            "errorCode": "404"
+            "errorCode": "404",
+            "region": "Washington"
         }
     ],
     [
@@ -1157,7 +1296,8 @@
             "ip": "216.244.66.245",
             "method": "GET",
             "resource": "/self.logs/error.log.2016-12-17.gz",
-            "errorCode": "404"
+            "errorCode": "404",
+            "region": "Washington"
         }
     ],
     [
@@ -1166,7 +1306,8 @@
             "ip": "54.36.148.241",
             "method": "GET",
             "resource": "/self.logs/2015/access.log.2015-04-14.gz",
-            "errorCode": "200"
+            "errorCode": "200",
+            "region": "Hauts-de-France"
         }
     ],
     [
@@ -1175,7 +1316,8 @@
             "ip": "37.228.245.14",
             "method": "GET",
             "resource": "/",
-            "errorCode": "200"
+            "errorCode": "200",
+            "region": "Leinster"
         }
     ],
     [
@@ -1184,7 +1326,8 @@
             "ip": "37.228.245.14",
             "method": "GET",
             "resource": "/GitHub-Mark.png",
-            "errorCode": "200"
+            "errorCode": "200",
+            "region": "Leinster"
         }
     ],
     [
@@ -1193,7 +1336,8 @@
             "ip": "37.228.245.14",
             "method": "GET",
             "resource": "/twitter-icon.png",
-            "errorCode": "200"
+            "errorCode": "200",
+            "region": "Leinster"
         }
     ],
     [
@@ -1202,7 +1346,8 @@
             "ip": "37.228.245.14",
             "method": "GET",
             "resource": "/bootstrap/img/favicon.ico",
-            "errorCode": "200"
+            "errorCode": "200",
+            "region": "Leinster"
         }
     ],
     [
@@ -1211,7 +1356,9 @@
             "ip": "23.253.92.35",
             "method": "GET",
             "resource": "/robots.txt",
-            "errorCode": "301"
+            "errorCode": "301",
+            "region": "Texas",
+            "statusAttack": false
         }
     ],
     [
@@ -1220,7 +1367,9 @@
             "ip": "23.253.92.35",
             "method": "GET",
             "resource": "/robots.txt",
-            "errorCode": "304"
+            "errorCode": "304",
+            "region": "Texas",
+            "statusAttack": false
         }
     ],
     [
@@ -1229,7 +1378,8 @@
             "ip": "23.253.92.35",
             "method": "GET",
             "resource": "/honeypot/BSidesDFW%20-%202014.ipynb",
-            "errorCode": "301"
+            "errorCode": "301",
+            "region": "Texas"
         }
     ],
     [
@@ -1238,7 +1388,8 @@
             "ip": "23.253.92.35",
             "method": "GET",
             "resource": "/honeypot/BSidesDFW%20-%202014.ipynb",
-            "errorCode": "200"
+            "errorCode": "200",
+            "region": "Texas"
         }
     ],
     [
@@ -1247,7 +1398,8 @@
             "ip": "222.186.200.211",
             "method": "GET",
             "resource": "/",
-            "errorCode": "200"
+            "errorCode": "200",
+            "region": "Shanghai"
         }
     ],
     [
@@ -1256,7 +1408,8 @@
             "ip": "222.186.200.211",
             "method": "GET",
             "resource": "/twitter-icon.png",
-            "errorCode": "200"
+            "errorCode": "200",
+            "region": "Shanghai"
         }
     ],
     [
@@ -1265,7 +1418,8 @@
             "ip": "222.186.200.211",
             "method": "GET",
             "resource": "/GitHub-Mark.png",
-            "errorCode": "200"
+            "errorCode": "200",
+            "region": "Shanghai"
         }
     ],
     [
@@ -1274,7 +1428,8 @@
             "ip": "37.228.245.14",
             "method": "GET",
             "resource": "/",
-            "errorCode": "304"
+            "errorCode": "304",
+            "region": "Leinster"
         }
     ],
     [
@@ -1283,7 +1438,8 @@
             "ip": "54.36.148.39",
             "method": "GET",
             "resource": "/self.logs/2016/access.log.2016-05-28.gz",
-            "errorCode": "200"
+            "errorCode": "200",
+            "region": "Hauts-de-France"
         }
     ],
     [
@@ -1292,7 +1448,9 @@
             "ip": "66.160.140.183",
             "method": "GET",
             "resource": "/robots.txt",
-            "errorCode": "200"
+            "errorCode": "200",
+            "region": "California",
+            "statusAttack": true
         }
     ],
     [
@@ -1301,7 +1459,9 @@
             "ip": "66.160.140.183",
             "method": "GET",
             "resource": "/data",
-            "errorCode": "404"
+            "errorCode": "404",
+            "region": "California",
+            "statusAttack": false
         }
     ],
     [
@@ -1310,7 +1470,9 @@
             "ip": "66.160.140.183",
             "method": "GET",
             "resource": "/robots.txt",
-            "errorCode": "301"
+            "errorCode": "301",
+            "region": "California",
+            "statusAttack": false
         }
     ],
     [
@@ -1319,7 +1481,9 @@
             "ip": "66.160.140.183",
             "method": "GET",
             "resource": "/robots.txt",
-            "errorCode": "200"
+            "errorCode": "200",
+            "region": "California",
+            "statusAttack": true
         }
     ],
     [
@@ -1328,7 +1492,8 @@
             "ip": "66.160.140.183",
             "method": "GET",
             "resource": "/",
-            "errorCode": "301"
+            "errorCode": "301",
+            "region": "California"
         }
     ],
     [
@@ -1337,7 +1502,8 @@
             "ip": "66.160.140.183",
             "method": "GET",
             "resource": "/maccdc2012/maccdc2012_fast_alert.7z",
-            "errorCode": "200"
+            "errorCode": "200",
+            "region": "California"
         }
     ],
     [
@@ -1346,7 +1512,8 @@
             "ip": "66.160.140.183",
             "method": "GET",
             "resource": "/maccdc2012/maccdc2012_full_alert.7z",
-            "errorCode": "200"
+            "errorCode": "200",
+            "region": "California"
         }
     ],
     [
@@ -1355,7 +1522,8 @@
             "ip": "66.160.140.183",
             "method": "GET",
             "resource": "/tg/tg_snort_fast.7z",
-            "errorCode": "200"
+            "errorCode": "200",
+            "region": "California"
         }
     ],
     [
@@ -1364,7 +1532,9 @@
             "ip": "66.249.66.84",
             "method": "GET",
             "resource": "/favicon.ico",
-            "errorCode": "200"
+            "errorCode": "200",
+            "region": "North Carolina",
+            "statusAttack": true
         }
     ],
     [
@@ -1373,7 +1543,8 @@
             "ip": "66.160.140.183",
             "method": "GET",
             "resource": "/tg/tg_snort_full.7z",
-            "errorCode": "200"
+            "errorCode": "200",
+            "region": "California"
         }
     ],
     [
@@ -1382,7 +1553,8 @@
             "ip": "66.160.140.183",
             "method": "GET",
             "resource": "/self.logs/",
-            "errorCode": "200"
+            "errorCode": "200",
+            "region": "California"
         }
     ],
     [
@@ -1391,7 +1563,8 @@
             "ip": "66.160.140.183",
             "method": "GET",
             "resource": "/honeypot/BSidesDFW%20-%202014.ipynb",
-            "errorCode": "200"
+            "errorCode": "200",
+            "region": "California"
         }
     ],
     [
@@ -1400,7 +1573,8 @@
             "ip": "113.171.224.176",
             "method": "GET",
             "resource": "/honeypot/Honeypot%20-%20Howto.pdf",
-            "errorCode": "200"
+            "errorCode": "200",
+            "region": "Hanoi"
         }
     ],
     [
@@ -1409,7 +1583,8 @@
             "ip": "54.36.148.66",
             "method": "GET",
             "resource": "/self.logs/error.log.2016-11-14.gz",
-            "errorCode": "404"
+            "errorCode": "404",
+            "region": "Hauts-de-France"
         }
     ],
     [
@@ -1418,7 +1593,8 @@
             "ip": "54.36.148.91",
             "method": "GET",
             "resource": "/self.logs/2015/access.log.2015-10-03.gz",
-            "errorCode": "200"
+            "errorCode": "200",
+            "region": "Hauts-de-France"
         }
     ],
     [
@@ -1427,7 +1603,9 @@
             "ip": "216.244.66.245",
             "method": "GET",
             "resource": "/robots.txt",
-            "errorCode": "200"
+            "errorCode": "200",
+            "region": "Washington",
+            "statusAttack": true
         }
     ],
     [
@@ -1436,7 +1614,8 @@
             "ip": "113.140.11.122",
             "method": "GET",
             "resource": "/honeypot/honeypot.json.zip",
-            "errorCode": "200"
+            "errorCode": "200",
+            "region": "Shaanxi"
         }
     ],
     [
@@ -1445,7 +1624,8 @@
             "ip": "198.35.44.149",
             "method": "GET",
             "resource": "/honeypot/honeypot.json.zip",
-            "errorCode": "206"
+            "errorCode": "206",
+            "region": "California"
         }
     ],
     [
@@ -1454,7 +1634,8 @@
             "ip": "198.35.44.149",
             "method": "GET",
             "resource": "/honeypot/honeypot.json.zip",
-            "errorCode": "206"
+            "errorCode": "206",
+            "region": "California"
         }
     ],
     [
@@ -1463,7 +1644,8 @@
             "ip": "198.35.44.149",
             "method": "GET",
             "resource": "/honeypot/honeypot.json.zip",
-            "errorCode": "206"
+            "errorCode": "206",
+            "region": "California"
         }
     ],
     [
@@ -1472,7 +1654,8 @@
             "ip": "54.36.148.81",
             "method": "GET",
             "resource": "/self.logs/error.log.2017-10-08.gz",
-            "errorCode": "200"
+            "errorCode": "200",
+            "region": "Hauts-de-France"
         }
     ],
     [
@@ -1481,7 +1664,8 @@
             "ip": "198.35.44.149",
             "method": "GET",
             "resource": "/honeypot/honeypot.json.zip",
-            "errorCode": "206"
+            "errorCode": "206",
+            "region": "California"
         }
     ],
     [
@@ -1490,7 +1674,8 @@
             "ip": "54.36.148.220",
             "method": "GET",
             "resource": "/self.logs/access.log.2016-05-10.gz",
-            "errorCode": "404"
+            "errorCode": "404",
+            "region": "Hauts-de-France"
         }
     ],
     [
@@ -1499,7 +1684,8 @@
             "ip": "198.35.44.149",
             "method": "GET",
             "resource": "/honeypot/honeypot.json.zip",
-            "errorCode": "200"
+            "errorCode": "200",
+            "region": "California"
         }
     ],
     [
@@ -1508,7 +1694,8 @@
             "ip": "198.35.44.149",
             "method": "GET",
             "resource": "/honeypot/honeypot.json.zip",
-            "errorCode": "206"
+            "errorCode": "206",
+            "region": "California"
         }
     ],
     [
@@ -1517,7 +1704,8 @@
             "ip": "198.35.44.149",
             "method": "GET",
             "resource": "/honeypot/honeypot.json.zip",
-            "errorCode": "206"
+            "errorCode": "206",
+            "region": "California"
         }
     ],
     [
@@ -1526,7 +1714,8 @@
             "ip": "198.35.44.149",
             "method": "GET",
             "resource": "/honeypot/honeypot.json.zip",
-            "errorCode": "206"
+            "errorCode": "206",
+            "region": "California"
         }
     ],
     [
@@ -1535,7 +1724,8 @@
             "ip": "198.35.44.149",
             "method": "GET",
             "resource": "/honeypot/honeypot.json.zip",
-            "errorCode": "206"
+            "errorCode": "206",
+            "region": "California"
         }
     ],
     [
@@ -1544,7 +1734,8 @@
             "ip": "198.35.44.149",
             "method": "GET",
             "resource": "/honeypot/honeypot.json.zip",
-            "errorCode": "206"
+            "errorCode": "206",
+            "region": "California"
         }
     ],
     [
@@ -1553,7 +1744,8 @@
             "ip": "198.35.44.149",
             "method": "GET",
             "resource": "/honeypot/honeypot.json.zip",
-            "errorCode": "206"
+            "errorCode": "206",
+            "region": "California"
         }
     ],
     [
@@ -1562,7 +1754,8 @@
             "ip": "216.244.66.245",
             "method": "GET",
             "resource": "/self.logs/access.log.2015-05-03.gz",
-            "errorCode": "404"
+            "errorCode": "404",
+            "region": "Washington"
         }
     ],
     [
@@ -1571,7 +1764,8 @@
             "ip": "216.244.66.245",
             "method": "GET",
             "resource": "/self.logs/access.log.2016-02-09.gz",
-            "errorCode": "404"
+            "errorCode": "404",
+            "region": "Washington"
         }
     ],
     [
@@ -1580,7 +1774,8 @@
             "ip": "216.244.66.245",
             "method": "GET",
             "resource": "/self.logs/access.log.2016-02-14.gz",
-            "errorCode": "404"
+            "errorCode": "404",
+            "region": "Washington"
         }
     ],
     [
@@ -1589,7 +1784,8 @@
             "ip": "216.244.66.245",
             "method": "GET",
             "resource": "/self.logs/access.log.2016-03-26.gz",
-            "errorCode": "404"
+            "errorCode": "404",
+            "region": "Washington"
         }
     ],
     [
@@ -1598,7 +1794,8 @@
             "ip": "216.244.66.245",
             "method": "GET",
             "resource": "/self.logs/error.log.2015-03-13.gz",
-            "errorCode": "404"
+            "errorCode": "404",
+            "region": "Washington"
         }
     ],
     [
@@ -1607,7 +1804,8 @@
             "ip": "216.244.66.245",
             "method": "GET",
             "resource": "/self.logs/error.log.2015-04-21.gz",
-            "errorCode": "404"
+            "errorCode": "404",
+            "region": "Washington"
         }
     ],
     [
@@ -1616,7 +1814,8 @@
             "ip": "216.244.66.245",
             "method": "GET",
             "resource": "/self.logs/error.log.2015-05-04.gz",
-            "errorCode": "404"
+            "errorCode": "404",
+            "region": "Washington"
         }
     ],
     [
@@ -1625,7 +1824,8 @@
             "ip": "216.244.66.245",
             "method": "GET",
             "resource": "/self.logs/error.log.2016-02-14.gz",
-            "errorCode": "404"
+            "errorCode": "404",
+            "region": "Washington"
         }
     ],
     [
@@ -1634,7 +1834,8 @@
             "ip": "42.188.85.174",
             "method": "GET",
             "resource": "/wp-login.php",
-            "errorCode": "418"
+            "errorCode": "418",
+            "region": "Selangor"
         }
     ],
     [
@@ -1643,7 +1844,8 @@
             "ip": "42.188.85.174",
             "method": "GET",
             "resource": "/",
-            "errorCode": "418"
+            "errorCode": "418",
+            "region": "Selangor"
         }
     ],
     [
@@ -1652,7 +1854,9 @@
             "ip": "216.244.66.245",
             "method": "GET",
             "resource": "/robots.txt",
-            "errorCode": "200"
+            "errorCode": "200",
+            "region": "Washington",
+            "statusAttack": true
         }
     ],
     [
@@ -1661,7 +1865,8 @@
             "ip": "216.244.66.245",
             "method": "GET",
             "resource": "/self.logs/access.log.2015-12-05.gz",
-            "errorCode": "404"
+            "errorCode": "404",
+            "region": "Washington"
         }
     ],
     [
@@ -1670,7 +1875,8 @@
             "ip": "216.244.66.245",
             "method": "GET",
             "resource": "/self.logs/access.log.2016-01-19.gz",
-            "errorCode": "404"
+            "errorCode": "404",
+            "region": "Washington"
         }
     ],
     [
@@ -1679,7 +1885,8 @@
             "ip": "216.244.66.245",
             "method": "GET",
             "resource": "/self.logs/access.log.2016-02-23.gz",
-            "errorCode": "404"
+            "errorCode": "404",
+            "region": "Washington"
         }
     ],
     [
@@ -1688,7 +1895,8 @@
             "ip": "216.244.66.245",
             "method": "GET",
             "resource": "/self.logs/error.log.2015-10-26.gz",
-            "errorCode": "404"
+            "errorCode": "404",
+            "region": "Washington"
         }
     ],
     [
@@ -1697,7 +1905,8 @@
             "ip": "62.68.124.103",
             "method": "GET",
             "resource": "/wp-login.php",
-            "errorCode": "418"
+            "errorCode": "418",
+            "region": "Srpska"
         }
     ],
     [
@@ -1706,7 +1915,8 @@
             "ip": "62.68.124.103",
             "method": "GET",
             "resource": "/",
-            "errorCode": "418"
+            "errorCode": "418",
+            "region": "Srpska"
         }
     ],
     [
@@ -1715,7 +1925,8 @@
             "ip": "168.194.56.161",
             "method": "GET",
             "resource": "/wp-login.php",
-            "errorCode": "418"
+            "errorCode": "418",
+            "region": "Rio Grande do Sul"
         }
     ],
     [
@@ -1724,7 +1935,8 @@
             "ip": "168.194.56.161",
             "method": "GET",
             "resource": "/",
-            "errorCode": "418"
+            "errorCode": "418",
+            "region": "Rio Grande do Sul"
         }
     ],
     [
@@ -1733,7 +1945,8 @@
             "ip": "52.165.129.203",
             "method": "GET",
             "resource": "/",
-            "errorCode": "301"
+            "errorCode": "301",
+            "region": "Iowa"
         }
     ],
     [
@@ -1742,7 +1955,8 @@
             "ip": "189.48.206.251",
             "method": "GET",
             "resource": "/",
-            "errorCode": "200"
+            "errorCode": "200",
+            "region": "Para\u00edba"
         }
     ],
     [
@@ -1751,7 +1965,8 @@
             "ip": "189.48.206.251",
             "method": "GET",
             "resource": "/apple-touch-icon-precomposed.png",
-            "errorCode": "404"
+            "errorCode": "404",
+            "region": "Para\u00edba"
         }
     ],
     [
@@ -1760,7 +1975,8 @@
             "ip": "189.48.206.251",
             "method": "GET",
             "resource": "/apple-touch-icon.png",
-            "errorCode": "404"
+            "errorCode": "404",
+            "region": "Para\u00edba"
         }
     ],
     [
@@ -1769,7 +1985,8 @@
             "ip": "189.48.206.251",
             "method": "GET",
             "resource": "/bootstrap/img/favicon.ico",
-            "errorCode": "200"
+            "errorCode": "200",
+            "region": "Para\u00edba"
         }
     ],
     [
@@ -1778,7 +1995,8 @@
             "ip": "189.48.206.251",
             "method": "GET",
             "resource": "/",
-            "errorCode": "200"
+            "errorCode": "200",
+            "region": "Para\u00edba"
         }
     ],
     [
@@ -1787,7 +2005,8 @@
             "ip": "189.48.206.251",
             "method": "GET",
             "resource": "/apple-touch-icon-precomposed.png",
-            "errorCode": "404"
+            "errorCode": "404",
+            "region": "Para\u00edba"
         }
     ],
     [
@@ -1796,7 +2015,8 @@
             "ip": "189.48.206.251",
             "method": "GET",
             "resource": "/apple-touch-icon.png",
-            "errorCode": "404"
+            "errorCode": "404",
+            "region": "Para\u00edba"
         }
     ],
     [
@@ -1805,7 +2025,8 @@
             "ip": "189.48.206.251",
             "method": "GET",
             "resource": "/bootstrap/img/favicon.ico",
-            "errorCode": "200"
+            "errorCode": "200",
+            "region": "Para\u00edba"
         }
     ],
     [
@@ -1814,7 +2035,8 @@
             "ip": "188.209.102.63",
             "method": "GET",
             "resource": "/wp-login.php",
-            "errorCode": "418"
+            "errorCode": "418",
+            "region": "Brussels Capital"
         }
     ],
     [
@@ -1823,7 +2045,8 @@
             "ip": "188.209.102.63",
             "method": "GET",
             "resource": "/",
-            "errorCode": "418"
+            "errorCode": "418",
+            "region": "Brussels Capital"
         }
     ],
     [
@@ -1832,7 +2055,9 @@
             "ip": "216.244.66.245",
             "method": "GET",
             "resource": "/robots.txt",
-            "errorCode": "200"
+            "errorCode": "200",
+            "region": "Washington",
+            "statusAttack": true
         }
     ],
     [
@@ -1841,7 +2066,8 @@
             "ip": "66.249.93.95",
             "method": "GET",
             "resource": "/",
-            "errorCode": "200"
+            "errorCode": "200",
+            "region": "Brussels Capital"
         }
     ],
     [
@@ -1850,7 +2076,8 @@
             "ip": "66.249.93.93",
             "method": "GET",
             "resource": "/bootstrap/img/favicon.ico",
-            "errorCode": "200"
+            "errorCode": "200",
+            "region": "Brussels Capital"
         }
     ],
     [
@@ -1859,7 +2086,8 @@
             "ip": "157.55.39.132",
             "method": "GET",
             "resource": "/honeypot/Honeypot%20-%20Howto.pdf",
-            "errorCode": "200"
+            "errorCode": "200",
+            "region": "Washington"
         }
     ],
     [
@@ -1868,7 +2096,8 @@
             "ip": "211.200.138.245",
             "method": "GET",
             "resource": "/wp-login.php",
-            "errorCode": "418"
+            "errorCode": "418",
+            "region": "Incheon"
         }
     ],
     [
@@ -1877,7 +2106,8 @@
             "ip": "211.200.138.245",
             "method": "GET",
             "resource": "/",
-            "errorCode": "418"
+            "errorCode": "418",
+            "region": "Incheon"
         }
     ],
     [
@@ -1886,7 +2116,8 @@
             "ip": "216.244.66.245",
             "method": "GET",
             "resource": "/self.logs/access.log.2015-05-31.gz",
-            "errorCode": "404"
+            "errorCode": "404",
+            "region": "Washington"
         }
     ],
     [
@@ -1895,7 +2126,8 @@
             "ip": "216.244.66.245",
             "method": "GET",
             "resource": "/self.logs/access.log.2015-12-02.gz",
-            "errorCode": "404"
+            "errorCode": "404",
+            "region": "Washington"
         }
     ],
     [
@@ -1904,7 +2136,8 @@
             "ip": "216.244.66.245",
             "method": "GET",
             "resource": "/self.logs/access.log.2016-02-02.gz",
-            "errorCode": "404"
+            "errorCode": "404",
+            "region": "Washington"
         }
     ],
     [
@@ -1913,7 +2146,8 @@
             "ip": "216.244.66.245",
             "method": "GET",
             "resource": "/self.logs/access.log.2016-02-18.gz",
-            "errorCode": "404"
+            "errorCode": "404",
+            "region": "Washington"
         }
     ],
     [
@@ -1922,7 +2156,8 @@
             "ip": "216.244.66.245",
             "method": "GET",
             "resource": "/self.logs/access.log.2016-04-19.gz",
-            "errorCode": "404"
+            "errorCode": "404",
+            "region": "Washington"
         }
     ],
     [
@@ -1931,7 +2166,8 @@
             "ip": "216.244.66.245",
             "method": "GET",
             "resource": "/self.logs/access.log.2016-06-06.gz",
-            "errorCode": "404"
+            "errorCode": "404",
+            "region": "Washington"
         }
     ],
     [
@@ -1940,7 +2176,8 @@
             "ip": "216.244.66.245",
             "method": "GET",
             "resource": "/self.logs/error.log.2015-09-15.gz",
-            "errorCode": "404"
+            "errorCode": "404",
+            "region": "Washington"
         }
     ],
     [
@@ -1949,7 +2186,8 @@
             "ip": "216.244.66.245",
             "method": "GET",
             "resource": "/self.logs/error.log.2016-10-28.gz",
-            "errorCode": "404"
+            "errorCode": "404",
+            "region": "Washington"
         }
     ],
     [
@@ -1958,7 +2196,8 @@
             "ip": "66.249.83.84",
             "method": "GET",
             "resource": "/",
-            "errorCode": "200"
+            "errorCode": "200",
+            "region": "North Carolina"
         }
     ],
     [
@@ -1967,7 +2206,8 @@
             "ip": "66.249.83.84",
             "method": "GET",
             "resource": "/bootstrap/img/favicon.ico",
-            "errorCode": "200"
+            "errorCode": "200",
+            "region": "North Carolina"
         }
     ],
     [
@@ -1976,7 +2216,9 @@
             "ip": "199.58.86.209",
             "method": "GET",
             "resource": "/robots.txt",
-            "errorCode": "200"
+            "errorCode": "200",
+            "region": "District of Columbia",
+            "statusAttack": true
         }
     ],
     [
@@ -1985,7 +2227,8 @@
             "ip": "199.58.86.209",
             "method": "GET",
             "resource": "/",
-            "errorCode": "200"
+            "errorCode": "200",
+            "region": "District of Columbia"
         }
     ],
     [
@@ -1994,7 +2237,8 @@
             "ip": "157.55.39.132",
             "method": "GET",
             "resource": "/honeypot/Honeypot%20-%20Howto%20-%20BSides%20Austin.pdf",
-            "errorCode": "200"
+            "errorCode": "200",
+            "region": "Washington"
         }
     ],
     [
@@ -2003,7 +2247,8 @@
             "ip": "157.55.39.132",
             "method": "GET",
             "resource": "/honeypot/Honeypot%20-%20Howto%20-%20BSides%20Austin.pdf",
-            "errorCode": "200"
+            "errorCode": "200",
+            "region": "Washington"
         }
     ],
     [
@@ -2012,7 +2257,8 @@
             "ip": "113.171.224.176",
             "method": "GET",
             "resource": "/honeypot/Honeypot%20-%20Howto.pdf",
-            "errorCode": "200"
+            "errorCode": "200",
+            "region": "Hanoi"
         }
     ],
     [
@@ -2021,7 +2267,8 @@
             "ip": "122.156.42.103",
             "method": "GET",
             "resource": "/",
-            "errorCode": "200"
+            "errorCode": "200",
+            "region": "Shanghai"
         }
     ],
     [
@@ -2030,7 +2277,8 @@
             "ip": "122.156.42.103",
             "method": "GET",
             "resource": "/twitter-icon.png",
-            "errorCode": "200"
+            "errorCode": "200",
+            "region": "Shanghai"
         }
     ],
     [
@@ -2039,7 +2287,8 @@
             "ip": "122.156.42.103",
             "method": "GET",
             "resource": "/GitHub-Mark.png",
-            "errorCode": "200"
+            "errorCode": "200",
+            "region": "Shanghai"
         }
     ],
     [
@@ -2048,7 +2297,8 @@
             "ip": "39.107.158.12",
             "method": "GET",
             "resource": "/",
-            "errorCode": "200"
+            "errorCode": "200",
+            "region": "Beijing"
         }
     ],
     [
@@ -2057,7 +2307,8 @@
             "ip": "54.36.148.41",
             "method": "GET",
             "resource": "/self.logs/error.log.2015-10-28.gz",
-            "errorCode": "404"
+            "errorCode": "404",
+            "region": "Hauts-de-France"
         }
     ],
     [
@@ -2066,7 +2317,8 @@
             "ip": "157.55.39.208",
             "method": "GET",
             "resource": "/self.logs/access.log.2017-04-23.gz",
-            "errorCode": "200"
+            "errorCode": "200",
+            "region": "Washington"
         }
     ],
     [
@@ -2075,7 +2327,8 @@
             "ip": "183.83.198.29",
             "method": "GET",
             "resource": "/wp-login.php",
-            "errorCode": "418"
+            "errorCode": "418",
+            "region": "Telangana"
         }
     ],
     [
@@ -2084,7 +2337,8 @@
             "ip": "183.83.198.29",
             "method": "GET",
             "resource": "/",
-            "errorCode": "418"
+            "errorCode": "418",
+            "region": "Telangana"
         }
     ],
     [
@@ -2093,7 +2347,8 @@
             "ip": "54.36.148.15",
             "method": "GET",
             "resource": "/self.logs/access.log.2018-06-01.gz",
-            "errorCode": "200"
+            "errorCode": "200",
+            "region": "Hauts-de-France"
         }
     ],
     [
@@ -2102,7 +2357,8 @@
             "ip": "157.55.39.135",
             "method": "GET",
             "resource": "/self.logs/access.log.2017-03-26.gz",
-            "errorCode": "200"
+            "errorCode": "200",
+            "region": "Washington"
         }
     ],
     [
@@ -2111,7 +2367,8 @@
             "ip": "54.36.148.159",
             "method": "GET",
             "resource": "/self.logs/access.log.2018-03-09.gz",
-            "errorCode": "200"
+            "errorCode": "200",
+            "region": "Hauts-de-France"
         }
     ],
     [
@@ -2120,7 +2377,8 @@
             "ip": "180.76.15.33",
             "method": "GET",
             "resource": "/self.logs/?C=N;O=D",
-            "errorCode": "200"
+            "errorCode": "200",
+            "region": "Beijing"
         }
     ],
     [
@@ -2129,7 +2387,8 @@
             "ip": "129.100.108.25",
             "method": "GET",
             "resource": "/",
-            "errorCode": "200"
+            "errorCode": "200",
+            "region": "Ontario"
         }
     ],
     [
@@ -2138,7 +2397,8 @@
             "ip": "129.100.108.25",
             "method": "GET",
             "resource": "/twitter-icon.png",
-            "errorCode": "200"
+            "errorCode": "200",
+            "region": "Ontario"
         }
     ],
     [
@@ -2147,7 +2407,8 @@
             "ip": "129.100.108.25",
             "method": "GET",
             "resource": "/GitHub-Mark.png",
-            "errorCode": "200"
+            "errorCode": "200",
+            "region": "Ontario"
         }
     ],
     [
@@ -2156,7 +2417,8 @@
             "ip": "54.36.148.234",
             "method": "GET",
             "resource": "/self.logs/2015/error.log.2015-12-05.gz",
-            "errorCode": "200"
+            "errorCode": "200",
+            "region": "Hauts-de-France"
         }
     ],
     [
@@ -2165,7 +2427,8 @@
             "ip": "142.162.95.51",
             "method": "GET",
             "resource": "/wp-login.php",
-            "errorCode": "418"
+            "errorCode": "418",
+            "region": "New Brunswick"
         }
     ],
     [
@@ -2174,7 +2437,8 @@
             "ip": "142.162.95.51",
             "method": "GET",
             "resource": "/",
-            "errorCode": "418"
+            "errorCode": "418",
+            "region": "New Brunswick"
         }
     ],
     [
@@ -2183,7 +2447,8 @@
             "ip": "54.36.149.83",
             "method": "GET",
             "resource": "/self.logs/access.log.2017-07-14.gz",
-            "errorCode": "200"
+            "errorCode": "200",
+            "region": "Hauts-de-France"
         }
     ],
     [
@@ -2192,7 +2457,8 @@
             "ip": "84.240.45.117",
             "method": "GET",
             "resource": "/wp-login.php",
-            "errorCode": "418"
+            "errorCode": "418",
+            "region": "Vilnius"
         }
     ],
     [
@@ -2201,7 +2467,8 @@
             "ip": "84.240.45.117",
             "method": "GET",
             "resource": "/",
-            "errorCode": "418"
+            "errorCode": "418",
+            "region": "Vilnius"
         }
     ],
     [
@@ -2210,7 +2477,8 @@
             "ip": "105.105.154.105",
             "method": "GET",
             "resource": "/wp-login.php",
-            "errorCode": "418"
+            "errorCode": "418",
+            "region": "Algiers"
         }
     ],
     [
@@ -2219,7 +2487,8 @@
             "ip": "105.105.154.105",
             "method": "GET",
             "resource": "/",
-            "errorCode": "418"
+            "errorCode": "418",
+            "region": "Algiers"
         }
     ],
     [
@@ -2228,7 +2497,8 @@
             "ip": "197.0.112.245",
             "method": "GET",
             "resource": "/wp-login.php",
-            "errorCode": "418"
+            "errorCode": "418",
+            "region": "Tunis Governorate"
         }
     ],
     [
@@ -2237,7 +2507,8 @@
             "ip": "197.0.112.245",
             "method": "GET",
             "resource": "/",
-            "errorCode": "418"
+            "errorCode": "418",
+            "region": "Tunis Governorate"
         }
     ],
     [
@@ -2246,7 +2517,8 @@
             "ip": "113.171.224.176",
             "method": "GET",
             "resource": "/honeypot/Honeypot%20-%20Howto.pdf",
-            "errorCode": "200"
+            "errorCode": "200",
+            "region": "Hanoi"
         }
     ],
     [
@@ -2255,7 +2527,9 @@
             "ip": "151.80.39.236",
             "method": "GET",
             "resource": "/robots.txt",
-            "errorCode": "200"
+            "errorCode": "200",
+            "region": "Hauts-de-France",
+            "statusAttack": true
         }
     ],
     [
@@ -2264,7 +2538,8 @@
             "ip": "210.195.214.49",
             "method": "GET",
             "resource": "/wp-login.php",
-            "errorCode": "418"
+            "errorCode": "418",
+            "region": "Kuala Lumpur"
         }
     ],
     [
@@ -2273,7 +2548,8 @@
             "ip": "54.36.149.73",
             "method": "GET",
             "resource": "/self.logs/error.log.2016-12-08.gz",
-            "errorCode": "404"
+            "errorCode": "404",
+            "region": "Hauts-de-France"
         }
     ],
     [
@@ -2282,7 +2558,8 @@
             "ip": "210.195.214.49",
             "method": "GET",
             "resource": "/",
-            "errorCode": "418"
+            "errorCode": "418",
+            "region": "Kuala Lumpur"
         }
     ],
     [
@@ -2291,7 +2568,8 @@
             "ip": "54.36.149.60",
             "method": "GET",
             "resource": "/self.logs/2016/error.log.2016-09-17.gz",
-            "errorCode": "200"
+            "errorCode": "200",
+            "region": "Hauts-de-France"
         }
     ],
     [
@@ -2300,7 +2578,8 @@
             "ip": "176.37.88.156",
             "method": "GET",
             "resource": "/",
-            "errorCode": "301"
+            "errorCode": "301",
+            "region": "Kyiv City"
         }
     ],
     [
@@ -2309,7 +2588,8 @@
             "ip": "176.37.88.156",
             "method": "GET",
             "resource": "/",
-            "errorCode": "200"
+            "errorCode": "200",
+            "region": "Kyiv City"
         }
     ],
     [
@@ -2318,7 +2598,9 @@
             "ip": "176.37.88.156",
             "method": "GET",
             "resource": "/data",
-            "errorCode": "301"
+            "errorCode": "301",
+            "region": "Kyiv City",
+            "statusAttack": false
         }
     ],
     [
@@ -2327,7 +2609,9 @@
             "ip": "176.37.88.156",
             "method": "GET",
             "resource": "/data",
-            "errorCode": "404"
+            "errorCode": "404",
+            "region": "Kyiv City",
+            "statusAttack": false
         }
     ],
     [
@@ -2336,7 +2620,8 @@
             "ip": "176.37.88.156",
             "method": "GET",
             "resource": "/maccdc2012/conn.log.gz",
-            "errorCode": "301"
+            "errorCode": "301",
+            "region": "Kyiv City"
         }
     ],
     [
@@ -2345,7 +2630,9 @@
             "ip": "124.114.148.32",
             "method": "GET",
             "resource": "/favicon.ico",
-            "errorCode": "200"
+            "errorCode": "200",
+            "region": "Shaanxi",
+            "statusAttack": true
         }
     ],
     [
@@ -2354,7 +2641,8 @@
             "ip": "176.37.88.156",
             "method": "GET",
             "resource": "/maccdc2012/conn.log.gz",
-            "errorCode": "200"
+            "errorCode": "200",
+            "region": "Kyiv City"
         }
     ],
     [
@@ -2363,7 +2651,8 @@
             "ip": "176.37.88.156",
             "method": "GET",
             "resource": "/maccdc2012/dhcp.log.gz",
-            "errorCode": "301"
+            "errorCode": "301",
+            "region": "Kyiv City"
         }
     ],
     [
@@ -2372,7 +2661,8 @@
             "ip": "176.37.88.156",
             "method": "GET",
             "resource": "/maccdc2012/dhcp.log.gz",
-            "errorCode": "200"
+            "errorCode": "200",
+            "region": "Kyiv City"
         }
     ],
     [
@@ -2381,7 +2671,8 @@
             "ip": "176.37.88.156",
             "method": "GET",
             "resource": "/maccdc2012/dns.log.gz",
-            "errorCode": "301"
+            "errorCode": "301",
+            "region": "Kyiv City"
         }
     ],
     [
@@ -2390,7 +2681,8 @@
             "ip": "176.37.88.156",
             "method": "GET",
             "resource": "/maccdc2012/dns.log.gz",
-            "errorCode": "200"
+            "errorCode": "200",
+            "region": "Kyiv City"
         }
     ],
     [
@@ -2399,7 +2691,8 @@
             "ip": "176.37.88.156",
             "method": "GET",
             "resource": "/maccdc2012/files.log.gz",
-            "errorCode": "301"
+            "errorCode": "301",
+            "region": "Kyiv City"
         }
     ],
     [
@@ -2408,7 +2701,8 @@
             "ip": "176.37.88.156",
             "method": "GET",
             "resource": "/maccdc2012/files.log.gz",
-            "errorCode": "200"
+            "errorCode": "200",
+            "region": "Kyiv City"
         }
     ],
     [
@@ -2417,7 +2711,8 @@
             "ip": "176.37.88.156",
             "method": "GET",
             "resource": "/maccdc2012/ftp.log.gz",
-            "errorCode": "301"
+            "errorCode": "301",
+            "region": "Kyiv City"
         }
     ],
     [
@@ -2426,7 +2721,8 @@
             "ip": "176.37.88.156",
             "method": "GET",
             "resource": "/maccdc2012/ftp.log.gz",
-            "errorCode": "200"
+            "errorCode": "200",
+            "region": "Kyiv City"
         }
     ],
     [
@@ -2435,7 +2731,8 @@
             "ip": "176.37.88.156",
             "method": "GET",
             "resource": "/maccdc2012/http.log.gz",
-            "errorCode": "301"
+            "errorCode": "301",
+            "region": "Kyiv City"
         }
     ],
     [
@@ -2444,7 +2741,8 @@
             "ip": "86.25.183.0",
             "method": "GET",
             "resource": "/",
-            "errorCode": "200"
+            "errorCode": "200",
+            "region": "England"
         }
     ],
     [
@@ -2453,7 +2751,8 @@
             "ip": "86.25.183.0",
             "method": "GET",
             "resource": "/twitter-icon.png",
-            "errorCode": "200"
+            "errorCode": "200",
+            "region": "England"
         }
     ],
     [
@@ -2462,7 +2761,8 @@
             "ip": "86.25.183.0",
             "method": "GET",
             "resource": "/GitHub-Mark.png",
-            "errorCode": "200"
+            "errorCode": "200",
+            "region": "England"
         }
     ],
     [
@@ -2471,7 +2771,8 @@
             "ip": "86.25.183.0",
             "method": "GET",
             "resource": "/bootstrap/img/favicon.ico",
-            "errorCode": "200"
+            "errorCode": "200",
+            "region": "England"
         }
     ],
     [
@@ -2480,7 +2781,8 @@
             "ip": "176.37.88.156",
             "method": "GET",
             "resource": "/maccdc2012/http.log.gz",
-            "errorCode": "200"
+            "errorCode": "200",
+            "region": "Kyiv City"
         }
     ],
     [
@@ -2489,7 +2791,8 @@
             "ip": "176.37.88.156",
             "method": "GET",
             "resource": "/maccdc2012/notice.log.gz",
-            "errorCode": "301"
+            "errorCode": "301",
+            "region": "Kyiv City"
         }
     ],
     [
@@ -2498,7 +2801,8 @@
             "ip": "176.37.88.156",
             "method": "GET",
             "resource": "/maccdc2012/notice.log.gz",
-            "errorCode": "200"
+            "errorCode": "200",
+            "region": "Kyiv City"
         }
     ],
     [
@@ -2507,7 +2811,8 @@
             "ip": "176.37.88.156",
             "method": "GET",
             "resource": "/maccdc2012/signatures.log.gz",
-            "errorCode": "301"
+            "errorCode": "301",
+            "region": "Kyiv City"
         }
     ],
     [
@@ -2516,7 +2821,8 @@
             "ip": "176.37.88.156",
             "method": "GET",
             "resource": "/maccdc2012/signatures.log.gz",
-            "errorCode": "200"
+            "errorCode": "200",
+            "region": "Kyiv City"
         }
     ],
     [
@@ -2525,7 +2831,8 @@
             "ip": "86.25.183.0",
             "method": "GET",
             "resource": "/self.logs/",
-            "errorCode": "200"
+            "errorCode": "200",
+            "region": "England"
         }
     ],
     [
@@ -2534,7 +2841,9 @@
             "ip": "86.25.183.0",
             "method": "GET",
             "resource": "/favicon.ico",
-            "errorCode": "200"
+            "errorCode": "200",
+            "region": "England",
+            "statusAttack": true
         }
     ],
     [
@@ -2543,7 +2852,8 @@
             "ip": "86.25.183.0",
             "method": "GET",
             "resource": "/self.logs/access.log.2017-01-01.gz",
-            "errorCode": "200"
+            "errorCode": "200",
+            "region": "England"
         }
     ],
     [
@@ -2552,7 +2862,8 @@
             "ip": "86.25.183.0",
             "method": "GET",
             "resource": "/self.logs/2016/",
-            "errorCode": "200"
+            "errorCode": "200",
+            "region": "England"
         }
     ],
     [
@@ -2561,7 +2872,8 @@
             "ip": "86.25.183.0",
             "method": "GET",
             "resource": "/self.logs/2015/",
-            "errorCode": "200"
+            "errorCode": "200",
+            "region": "England"
         }
     ],
     [
@@ -2570,7 +2882,8 @@
             "ip": "86.25.183.0",
             "method": "GET",
             "resource": "/self.logs/2015/access.log.2015-01-17.gz",
-            "errorCode": "200"
+            "errorCode": "200",
+            "region": "England"
         }
     ],
     [
@@ -2579,7 +2892,8 @@
             "ip": "86.25.183.0",
             "method": "GET",
             "resource": "/maccdc2012/dns.log.gz",
-            "errorCode": "200"
+            "errorCode": "200",
+            "region": "England"
         }
     ],
     [
@@ -2588,7 +2902,8 @@
             "ip": "52.165.166.139",
             "method": "GET",
             "resource": "/",
-            "errorCode": "301"
+            "errorCode": "301",
+            "region": "Iowa"
         }
     ],
     [
@@ -2597,7 +2912,8 @@
             "ip": "79.52.132.54",
             "method": "GET",
             "resource": "/wp-login.php",
-            "errorCode": "418"
+            "errorCode": "418",
+            "region": "Tuscany"
         }
     ],
     [
@@ -2606,7 +2922,8 @@
             "ip": "79.52.132.54",
             "method": "GET",
             "resource": "/",
-            "errorCode": "418"
+            "errorCode": "418",
+            "region": "Tuscany"
         }
     ],
     [
@@ -2615,7 +2932,8 @@
             "ip": "86.25.183.0",
             "method": "GET",
             "resource": "/scada/scada_logs.zip",
-            "errorCode": "200"
+            "errorCode": "200",
+            "region": "England"
         }
     ],
     [
@@ -2624,7 +2942,8 @@
             "ip": "86.25.183.0",
             "method": "GET",
             "resource": "/maccdc2012/ssh.log.gz",
-            "errorCode": "200"
+            "errorCode": "200",
+            "region": "England"
         }
     ],
     [
@@ -2633,7 +2952,8 @@
             "ip": "86.25.183.0",
             "method": "GET",
             "resource": "/maccdc2012/conn.log.gz",
-            "errorCode": "200"
+            "errorCode": "200",
+            "region": "England"
         }
     ],
     [
@@ -2642,7 +2962,8 @@
             "ip": "86.25.183.0",
             "method": "GET",
             "resource": "/maccdc2012/dns.log.gz",
-            "errorCode": "200"
+            "errorCode": "200",
+            "region": "England"
         }
     ],
     [
@@ -2651,7 +2972,8 @@
             "ip": "86.25.183.0",
             "method": "GET",
             "resource": "/scada/scada_logs.zip",
-            "errorCode": "200"
+            "errorCode": "200",
+            "region": "England"
         }
     ],
     [
@@ -2660,7 +2982,8 @@
             "ip": "106.193.209.45",
             "method": "GET",
             "resource": "/wp-login.php",
-            "errorCode": "418"
+            "errorCode": "418",
+            "region": "Maharashtra"
         }
     ],
     [
@@ -2669,7 +2992,8 @@
             "ip": "106.193.209.45",
             "method": "GET",
             "resource": "/",
-            "errorCode": "418"
+            "errorCode": "418",
+            "region": "Maharashtra"
         }
     ],
     [
@@ -2678,7 +3002,9 @@
             "ip": "162.210.196.129",
             "method": "GET",
             "resource": "/robots.txt",
-            "errorCode": "200"
+            "errorCode": "200",
+            "region": "District of Columbia",
+            "statusAttack": true
         }
     ],
     [
@@ -2687,7 +3013,8 @@
             "ip": "162.210.196.129",
             "method": "GET",
             "resource": "/",
-            "errorCode": "200"
+            "errorCode": "200",
+            "region": "District of Columbia"
         }
     ],
     [
@@ -2696,7 +3023,8 @@
             "ip": "54.36.149.24",
             "method": "GET",
             "resource": "/self.logs/access.log.2015-10-22.gz",
-            "errorCode": "404"
+            "errorCode": "404",
+            "region": "Hauts-de-France"
         }
     ],
     [
@@ -2705,7 +3033,8 @@
             "ip": "54.36.148.197",
             "method": "GET",
             "resource": "/self.logs/access.log.2017-09-04.gz",
-            "errorCode": "200"
+            "errorCode": "200",
+            "region": "Hauts-de-France"
         }
     ],
     [
@@ -2714,7 +3043,8 @@
             "ip": "84.241.90.49",
             "method": "GET",
             "resource": "/wp-login.php",
-            "errorCode": "418"
+            "errorCode": "418",
+            "region": "Nidwalden"
         }
     ],
     [
@@ -2723,7 +3053,8 @@
             "ip": "84.241.90.49",
             "method": "GET",
             "resource": "/",
-            "errorCode": "418"
+            "errorCode": "418",
+            "region": "Nidwalden"
         }
     ],
     [
@@ -2732,7 +3063,8 @@
             "ip": "84.106.81.117",
             "method": "GET",
             "resource": "/",
-            "errorCode": "200"
+            "errorCode": "200",
+            "region": "South Holland"
         }
     ],
     [
@@ -2741,7 +3073,8 @@
             "ip": "218.207.196.92",
             "method": "GET",
             "resource": "/GitHub-Mark.png",
-            "errorCode": "200"
+            "errorCode": "200",
+            "region": "Shanghai"
         }
     ]
 ]
